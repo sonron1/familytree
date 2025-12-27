@@ -1,0 +1,17 @@
+C'est un excellent projet ! L'idée d'une application d'arbre généalogique avec des comptes personnels est vraiment pertinente. Voici ce que je trouve particulièrement intéressant dans ton concept :
+Points forts :
+
+La double traçabilité (maternel et paternel) est essentielle pour un arbre complet
+Les galeries photos ajoutent une dimension émotionnelle et visuelle importante
+La vue en arbre avec branches facilitera la compréhension des liens familiaux
+
+Quelques suggestions pour enrichir le projet :
+L'aspect relationnel pourrait être développé 
+- peut-être permettre de définir différents types de liens (mariage, adoption, partenariat) et gérer les familles recomposées qui sont fréquentes aujourd'hui.
+Pour la visualisation, tu pourrais envisager plusieurs modes : arbre descendant (ancêtres vers descendants), arbre ascendant (focus sur une personne remontant vers ses ancêtres), ou vue en éventail. Certains utilisateurs préfèrent différentes représentations selon ce qu'ils cherchent.
+Les informations biographiques pourraient aller au-delà des données de base - lieu de naissance, profession, anecdotes familiales, événements marquants. Ça transforme l'arbre en véritable mémoire familiale.
+Questions techniques à considérer :
+
+Comment gères-tu la confidentialité ? (certaines personnes ne veulent peut-être pas être visibles)
+Partage entre membres de la famille qui collaborent sur le même arbre ?
+Import/export de données (format GEDCOM est un standard dans les logiciels de généalogie)
